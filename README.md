@@ -1,2 +1,2 @@
-# LArtlaManire 
+# LArtlaManière
 AML’ArtLaManière
